@@ -2,6 +2,10 @@
 
 Gestion des tâches à réaliser sous forme de liste
 
+# Prérequis
+- <a href="https://nodejs.org/fr/download/" target="_blank">Node.js</a><br>
+Permet d'utiliser la commande npm
+
 # Installation
 <ol>
   <li><b>Décompresser</b> le dossier</li>
